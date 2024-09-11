@@ -7,7 +7,7 @@ import LOGO from './logoolx.png'
 import SearchIcon from "../../assets/SearchIcon"
 import Arrow from "../../assets/Arrow";
 
-import { Link } from "react-router-dom";
+
 import { AuthContext } from "../../contextStore/AuthContext";
 import { Firebase } from "../../firebase/config";
 import Search from "../Search/Search";
